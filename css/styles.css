@@ -1,0 +1,12 @@
+
+.systems{
+    display: flex;
+    max-width: 1000px;
+    flex-direction: row;
+}
+
+.games_img {
+    width: 250px;
+    height: 290px;
+    padding: 50px;
+}
