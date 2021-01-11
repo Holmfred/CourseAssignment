@@ -1,0 +1,27 @@
+.banner {
+    background: url("../images/Banner.jpeg") center bottom no-repeat; 
+    background-size: cover;
+    min-height: 150px;
+    position: relative;
+}
+
+.banner img {
+    width: 400px;
+    position: center;
+}
+    
+
+.systems img {
+    width: 120px;
+    height: 139px;
+}
+
+.best-sellers img {
+    width: 115px;
+    height: 134px;
+}
+
+.critically-acclaimed img {
+    width: 115px;
+    height: 134px;
+}
