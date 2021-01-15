@@ -10,6 +10,7 @@ body {
     display: grid;
 }
 
+
 main {
     max-width: 1600px;
 }
@@ -41,7 +42,7 @@ nav {
 }
 
 #hamburger-menu {
-    display: none;
+    display: none; 
 }
 
 #hamburger-menu:checked ~ nav {
